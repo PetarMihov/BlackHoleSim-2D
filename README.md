@@ -2,7 +2,7 @@
 
 A small C# simulation of how light bends around a black hole.
 
-I wanted a simpler way to explore the physics behind my [original BlackHoleSim project](https://github.com/PeshoCodes/BlackHoleSim), so I made a version that focuses on photon paths instead of 3D graphics and visual effects. You can launch light rays, watch them curve around the center, and change the black hole's mass to see how the paths respond.
+I built BlackHoleSim 2D to explore how gravity affects the paths of light rays. You can launch photons, watch their trajectories bend around a black hole, and change its mass to see how the paths respond.
 
 The simulation is a **2D orbital-plane view**, not a realistic image of a black hole as seen through a camera.
 
