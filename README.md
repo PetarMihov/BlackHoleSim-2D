@@ -64,4 +64,4 @@ For more about the equation and implementation, see [PROJECT_NOTES.md](PROJECT_N
 
 This is a small numerical model meant for experimenting, not a scientifically validated ray tracer. It does not model spin, redshift, or 3D gravitational lensing. The black circle represents the event horizon rather than the larger apparent shadow seen in rendered black-hole images.
 
-I used AI assistance while developing and simplifying the code. I've kept this version small so I can study the implementation, make changes, and experiment with the physics more easily.
+I used AI assistance for some debugging and part of the code. I've kept this version small so I can study the implementation, make changes, and experiment with the physics more easily.
