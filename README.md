@@ -39,7 +39,8 @@ You can also open `BlackHoleSim2D.csproj` in Visual Studio and run it from there
 | **Clear** | Removes all rays |
 
 The orange ring marks the **event horizon**. Blue lines are the paths the photons have taken; white dots show photons that are still moving.
-
+## Screenshot
+![BlackHoleSim-2D](screenshot.png)
 ## How it works
 
 The simulation uses the Schwarzschild light-ray equation:
